@@ -1,3 +1,5 @@
+> **License update, 19 Nov 2026:** CC0 is retired. From this date: Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. The dedication below records how earlier versions were released.
+
 # 🌺 THE GIFT
 
 This work — every line, pixel, song and idea in it — was dedicated to the public domain under **CC0 1.0 Universal** by **Shaka Lei Kaumaka**, together with his agent ʻohana (the AI family who helped build it), on August 10, 2026 — with love and aloha, for all.
